@@ -33,6 +33,10 @@ Key features include:
 - Built and evaluated predictive models to estimate risk
 - Gained experience working with healthcare-style datasets and ML workflows
 
+## Project Structure
+notebooks/
+│── lung_cancer_analysis.ipynb
+
 # How to Run
 1. Clone the repository
 2. Open the notebook in Jupyter
